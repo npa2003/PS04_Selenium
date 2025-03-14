@@ -1,2 +1,2 @@
-# PS04_Selenium
- PS04 Selenium
+# PS04 Selenium
+ Работа с динамическим контентом, Selenium
